@@ -13,16 +13,16 @@
     "46": "46.mp4", "47": "47.mp4", "48": "48.mp4"
   },
   "heroes": [
-    { "id": "hero_1", "nome": "Heroi 1", "imagem": "hero_1.png" },
-    { "id": "hero_2", "nome": "Heroi 2", "imagem": "hero_2.png" },
-    { "id": "hero_3", "nome": "Heroi 3", "imagem": "hero_3.png" },
-    { "id": "hero_4", "nome": "Heroi 4", "imagem": "hero_4.png" },
-    { "id": "hero_5", "nome": "Heroi 5", "imagem": "hero_5.png" },
-    { "id": "hero_6", "nome": "Heroi 6", "imagem": "hero_6.png" },
-    { "id": "hero_7", "nome": "Heroi 7", "imagem": "hero_7.png" },
-    { "id": "hero_8", "nome": "Heroi 8", "imagem": "hero_8.png" },
-    { "id": "hero_9", "nome": "Heroi 9", "imagem": "hero_9.png" },
-    { "id": "hero_10", "nome": "Heroi 10", "imagem": "hero_10.png" }
+    { "id": "hero_1", "nome": "Malévolo Dumbledores", "imagem": "Malévolo.png" },
+    { "id": "hero_2", "nome": "Fábio Coentrão", "imagem": "Elfo.png" },
+    { "id": "hero_3", "nome": "Ronalda McDonalda", "imagem": "Ronalda Mcdonalda.png" },
+    { "id": "hero_4", "nome": "Salgueirita", "imagem": "Salgueirita.png" },
+    { "id": "hero_5", "nome": "Cátia Margarida Inês Maria Catarina Paula Sara", "imagem": "Mentirosa.png" },
+    { "id": "hero_6", "nome": "Jesus Cruz", "imagem": "Jesus Cruz.png" },
+    { "id": "hero_7", "nome": "Sã Joã", "imagem": "Sã Joã.png" },
+    { "id": "hero_8", "nome": "Paulenda", "imagem": "Paulenda.png" },
+    { "id": "hero_9", "nome": "Shakati", "imagem": "Shakati.png" },
+    { "id": "hero_10", "nome": "Siddhartha Ganda Bunda", "imagem": "Bundha.png" }
   ],
   "videoInicial": "video_inicial.mp4",
   "rouletteDecoration": "roleta2.png"

@@ -33,7 +33,9 @@ function heroList() {
   return manifest.heroes.map((h) => ({
     id: h.id,
     nome: h.nome,
-    imagem: `/images/heroes/${h.imagem}`
+    // Filenames may contain spaces/accents (e.g. "Sã Joã.png") - encode
+    // so the browser requests the exact bytes express.static expects.
+    imagem: `/images/heroes/${encodeURIComponent(h.imagem)}`
   }));
 }
 
