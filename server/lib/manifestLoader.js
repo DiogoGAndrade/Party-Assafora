@@ -25,7 +25,7 @@ function challengeVideoPath(numero) {
   const manifest = loadManifest();
   const filename = manifest.challenges[String(numero)];
   if (!filename) return null;
-  return `/videos/challenges/${filename}`;
+  return `/videos/challenges/${encodeURIComponent(filename)}`;
 }
 
 function heroList() {
@@ -41,12 +41,12 @@ function heroList() {
 
 function introVideoPath() {
   const manifest = loadManifest();
-  return `/videos/intro/${manifest.videoInicial}`;
+  return `/videos/intro/${encodeURIComponent(manifest.videoInicial)}`;
 }
 
 function rouletteDecorationPath() {
   const manifest = loadManifest();
-  return `/images/roulette/${manifest.rouletteDecoration}`;
+  return `/images/roulette/${encodeURIComponent(manifest.rouletteDecoration)}`;
 }
 
 module.exports = {
