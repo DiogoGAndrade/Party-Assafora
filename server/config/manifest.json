@@ -1,0 +1,29 @@
+{
+  "_comment": "Mapeia cada casa/hero para o nome de ficheiro REAL na pasta correspondente. Edita os valores para bater certo com os teus ficheiros - nao assumas que a numeracao do ficheiro e sempre 'N.mp4'. Corre 'npm run audit' depois de editar para validar.",
+  "challenges": {
+    "1": "1.mp4", "2": "2.mp4", "3": "3.mp4", "4": "4.mp4", "5": "5.mp4",
+    "6": "6.mp4", "7": "7.mp4", "8": "8.mp4", "9": "9.mp4", "10": "10.mp4",
+    "11": "11.mp4", "12": "12.mp4", "13": "13.mp4", "14": "14.mp4", "15": "15.mp4",
+    "16": "16.mp4", "17": "17.mp4", "18": "18.mp4", "19": "19.mp4", "20": "20.mp4",
+    "21": "21.mp4", "22": "22.mp4", "23": "23.mp4", "24": "24.mp4", "25": "25.mp4",
+    "26": "26.mp4", "27": "27.mp4", "28": "28.mp4", "29": "29.mp4", "30": "30.mp4",
+    "31": "31.mp4", "32": "32.mp4", "33": "33.mp4", "34": "34.mp4", "35": "35.mp4",
+    "36": "36.mp4", "37": "37.mp4", "38": "38.mp4", "39": "39.mp4", "40": "40.mp4",
+    "41": "41.mp4", "42": "42.mp4", "43": "43.mp4", "44": "44.mp4", "45": "45.mp4",
+    "46": "46.mp4", "47": "47.mp4", "48": "48.mp4"
+  },
+  "heroes": [
+    { "id": "hero_1", "nome": "Heroi 1", "imagem": "hero_1.png" },
+    { "id": "hero_2", "nome": "Heroi 2", "imagem": "hero_2.png" },
+    { "id": "hero_3", "nome": "Heroi 3", "imagem": "hero_3.png" },
+    { "id": "hero_4", "nome": "Heroi 4", "imagem": "hero_4.png" },
+    { "id": "hero_5", "nome": "Heroi 5", "imagem": "hero_5.png" },
+    { "id": "hero_6", "nome": "Heroi 6", "imagem": "hero_6.png" },
+    { "id": "hero_7", "nome": "Heroi 7", "imagem": "hero_7.png" },
+    { "id": "hero_8", "nome": "Heroi 8", "imagem": "hero_8.png" },
+    { "id": "hero_9", "nome": "Heroi 9", "imagem": "hero_9.png" },
+    { "id": "hero_10", "nome": "Heroi 10", "imagem": "hero_10.png" }
+  ],
+  "videoInicial": "video_inicial.mp4",
+  "rouletteDecoration": "roleta2.png"
+}

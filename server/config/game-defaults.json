@@ -1,0 +1,7 @@
+{
+  "board_size": 48,
+  "laps_to_end": 6,
+  "randomizers": {
+    "tempo": { "min": 1.5, "max": 12 }
+  }
+}

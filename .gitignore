@@ -1,0 +1,16 @@
+node_modules/
+
+# Real party assets and generated/saved game state should not be versioned.
+public/videos/challenges/*
+!public/videos/challenges/.gitkeep
+public/videos/heroes/*
+!public/videos/heroes/.gitkeep
+public/videos/intro/*
+!public/videos/intro/.gitkeep
+public/images/heroes/*
+!public/images/heroes/.gitkeep
+public/images/roulette/*
+!public/images/roulette/.gitkeep
+
+data/games/*.json
+data/quizzes/*.json
